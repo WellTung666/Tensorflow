@@ -1,3 +1,0 @@
-model_checkpoint_path: "D:/PyCharm/PycharmProjects/AJ_Recognition/train_log\\thing.ckpt-999"
-all_model_checkpoint_paths: "D:/PyCharm/PycharmProjects/AJ_Recognition/train_log\\thing.ckpt"
-all_model_checkpoint_paths: "D:/PyCharm/PycharmProjects/AJ_Recognition/train_log\\thing.ckpt-999"
